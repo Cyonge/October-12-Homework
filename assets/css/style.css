@@ -1,0 +1,48 @@
+body {
+    background-color: #f2f2f2
+}
+
+
+.header{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    width: 300px;
+    height: 30px;
+    background-color: #4aaaa5;
+    font-size: 8pt;
+    text-align: center;
+    margin-top: 5px;
+    color: #ffffff; 
+}
+img {
+    margin: 10px;
+    float:left:
+    
+}
+
+.biography {
+   clear:left;
+}
+
+.container {
+    margin: auto;
+    background-color: #4aaaa5;
+    width: 956px;
+    height: 400px;
+    box-align: center;
+    
+    
+}
+
+.container1{
+    margin: auto;
+    background-color: #4aaaa5;
+    width: 956px;
+    height: 400px;
+    box-align: center;
+    text-align: center;
+}
+
+p {
+    float: left;
+
+}
